@@ -39,4 +39,7 @@ int main(){
     cout<<square_root(n, places)<<endl;
     return 0;
 }
+// integer part is done using binary search - O(logN)
+// iterating 9 times for each place value - 9 * p
+// T = O(logN + p) ~ O(logN)
 
