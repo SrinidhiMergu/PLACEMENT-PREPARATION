@@ -20,7 +20,7 @@ ll binary_exp(ll x, ll n){
     }
     return ans;
 }
-// to calculate a^b % m
+// to calculate a^b % m - bitmasking
 ll fastModuloExp(ll x, ll n, ll m){
     ll ans=1;
     while(n>0){
@@ -31,6 +31,18 @@ ll fastModuloExp(ll x, ll n, ll m){
         n = n>>1;
     }
     return ans;
+}
+// to calculate a^b % m - recursion
+ll moduloExp(ll x, ll, n, ll m){
+    if(n==0)
+        return 1;
+    else if(n%2==0){
+        y=moduloExp(x,n/2,m);
+        return (y*y) % m;
+    }
+    else{
+        return ((x % m) * moduloExp(x,n-1,m)) % m;
+    }
 }
 int main() {
     ios_base::sync_with_stdio(false);
@@ -47,4 +59,4 @@ int main() {
 }
 //T=log2N - BE
 //T=logB where B=no. of bits in n - ME
-
+//TC = logn where n=power
