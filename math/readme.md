@@ -5,4 +5,4 @@
 5. fast modulo exponentiation
 6. euler totient function(ETF) and euler's theorem - not written
 7. large modular exponentiation using binary exp
-8. 
+8. fast multiplication using karatsuba algo (try FFT-FOUR FRONTIER THEOREM)
