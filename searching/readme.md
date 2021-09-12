@@ -23,9 +23,9 @@ to-do
 15. search in row wise and column wise sorted arr
 
 /babbar
-14. merge 2 sorted arrays
-15. EKOSPOJ
-16. DoubleHelix SPOJ
+1. merge 2 sorted arrays
+1. EKOSPOJ
+1. DoubleHelix SPOJ
 17. Maximum and minimum of an array using minimum number of comparisons
 18. Find a Fixed Point (Value equal to index) in a given array
 19. Maximum and minimum of an array using minimum number of comparisons
@@ -44,8 +44,8 @@ to-do
 32. Product array Puzzle
 
 /striver
-14. Matrix Median
-15. Find the element that appears once in sorted array, and rest element appears twice
+1. Matrix Median
+1. Find the element that appears once in sorted array, and rest element appears twice
 16. Median of 2 sorted arrays
 17. K-th element of two sorted arrays
 18. allocate min no of pages
