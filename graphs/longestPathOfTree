@@ -1,0 +1,48 @@
+//finding longest path of tree
+vi adjL[10001];
+int maxD, maxNode;
+
+void dfs(int node, int dis, vi &vis){
+
+    vis[node] = 1;
+    if(dis > maxD){
+        maxD = dis;
+        maxNode = node;
+    }
+    for(int child: adjL[node]){
+        if(vis[child]==0){
+            dfs(child, dis+1, vis);
+        }
+    }
+}
+
+int main(){
+    NFS;
+
+    int t=1;
+    //cin>>t;
+    int n, u, v;
+    cin>>n;
+    while(t--){
+        //adj list
+        rep(i,n){
+            cin>>u>>v;
+            adjL[u].pb(v);
+            adjL[v].pb(u);
+        }
+        vi vis(n+1, 0);
+        maxD=-1;
+        //find the max node 
+        dfs(1, 0, vis);
+
+        rep(i, n){
+            vis[i]=0;
+        }
+        maxD=-1;
+        dfs(maxNode, 0, vis); 
+        co<<maxD;
+        
+    }
+
+    return 0;
+}
