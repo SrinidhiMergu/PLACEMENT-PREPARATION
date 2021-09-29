@@ -3,6 +3,12 @@
 - fing square root
 find Nth root
 find pivot element in sorted rotated array
+/codeblocks
+1. prata spoj
+2. bs - help rahul - pivot elemnt
+3. bs in monotonic search spaces
+4. painters partition prob, EKO (spoj)
+5. finding upper and lower bound
 
 /aditya
 to-do
