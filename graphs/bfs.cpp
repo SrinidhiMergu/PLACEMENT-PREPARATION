@@ -42,5 +42,5 @@ int main() {
 // t1 (adjacency list) - o(E)
 // t2 (tree traversal) - o(V)
 // TC = t1+t2 = o(V) +o(E) = O(v+E)
-// SC - O(V)
-// adj matrix takes O(V^2)
+// SC - O(V + E) + O(V)  = (adj list + queue)
+// adj matrix takes O(V^2) tc
