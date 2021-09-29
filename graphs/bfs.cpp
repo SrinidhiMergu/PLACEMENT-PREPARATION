@@ -36,7 +36,11 @@ int main() {
     vi bfs = bfsOfGraph(V, adj);
     fore(bfs); // 3 1 4 2
     //3 4 1 2
-
-    
     return 0;
 }
+// TC = O(V+E)
+// t1 (adjacency list) - o(E)
+// t2 (tree traversal) - o(V)
+// TC = t1+t2 = o(V) +o(E) = O(v+E)
+// SC - O(V)
+// adj matrix takes O(V^2)
