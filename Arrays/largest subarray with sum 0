@@ -1,0 +1,19 @@
+int maxLen(vector<int>&a, int n)
+    {   
+        // Your code here
+        int sum=0, maxi=0; 
+        unordered_map<int, int> mp;
+        for(int i=0; i<n; i++){
+            sum += a[i];
+            if(sum==0){
+                maxi = max(maxi, i+1);
+            }
+            else if(mp.find(sum) == mp.end()){
+                mp.insert(make_pair(sum, i));
+            }
+            else{
+                maxi = max(maxi, i - mp[sum]);
+            }
+        }
+        return maxi;
+    }
