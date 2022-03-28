@@ -1,0 +1,12 @@
+ int maxSubArray(vector<int>& n) {
+        
+    int sum=0, m=n[0], sz=n.size();
+        for(int i=0; i<sz; i++){
+            sum+=n[i];
+            m = max(m, sum);
+            if(sum<0){
+                sum = 0;
+            }
+        }
+        return m;
+    }
