@@ -1,0 +1,23 @@
+ int longestConsecutive(vector<int>& nums) {
+        unordered_set<int> s;
+        int n=nums.size();
+        if(n==0) return 0;
+        for(int i=0; i<n; i++){
+            if(s.find(nums[i]) == s.end()){
+                s.insert(nums[i]);
+            }
+        }
+        int maxi = INT_MIN, c=0;
+        for(int i=0; i<n; i++){
+            if(s.find(nums[i]-1) == s.end()){
+                c=1;
+                int key = nums[i] +1;
+                while(s.find(key) != s.end()){
+                    c++, key++;
+                    
+                }
+                maxi =max(maxi, c);
+            }
+        }
+        return maxi;
+    }
