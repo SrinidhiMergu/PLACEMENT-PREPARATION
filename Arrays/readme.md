@@ -14,12 +14,12 @@
 11. [Find the repeating and missing numbers](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 12. [Count inversions in an array](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 13. [Search in a sorted 2D matrix (only row sorted)](https://leetcode.com/problems/search-a-2d-matrix/)
-    1.[row and column sorted](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
+    1. [row and column sorted](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
 15. [Implement Pow(x,n) | X raised to the power N](https://leetcode.com/problems/powx-n/)
 16. [Find the Majority Element that occurs more than N/2 times](https://leetcode.com/problems/majority-element/)
 17. [Majority Elements(>N/3 times) | Find the elements that appears more than N/3 times in the array](https://leetcode.com/problems/majority-element-ii/)
 18. [Grid Unique Paths | Count paths from left-top to the right bottom of a matrix](https://leetcode.com/problems/unique-paths/)
-    1.check accepted solutions for dp code 
+    1. check accepted solutions for dp code 
 20. [Count Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 21. [Two Sum : Check if a pair with given sum exists in Array](https://leetcode.com/problems/two-sum/)
 22. [4 Sum | Find Quads that add up to a target value](https://leetcode.com/problems/4sum/)
