@@ -28,6 +28,6 @@
     1. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 21. [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 22. [Delete the whole LL]()
-23. [Separate even and odd nodes in a LL]()
+23. [Separate even and odd nodes in a LL](https://leetcode.com/problems/odd-even-linked-list/submissions/)
 24. [Sort a LL](https://www.interviewbit.com/problems/sort-list/submissions/)
 25. [Remove LL elements]()
