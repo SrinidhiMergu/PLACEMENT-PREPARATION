@@ -28,7 +28,7 @@
 25. [Count the number of subarrays with given xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)
 26. [Length of Longest Substring without any Repeating Character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 27. [max min with min comparisons](https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/)
-28. []()
+28. [Wave Array](https://www.interviewbit.com/problems/wave-array/submissions/)
 29. []()
 30. []()
 31. []()
