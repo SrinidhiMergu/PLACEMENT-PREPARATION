@@ -1,5 +1,10 @@
-//Floyds method for LL
+## Interview Questions
+1. Floyds method for LL
+2. Can we reverse a linked list in less than O(n) ?
+3. Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
 
+
+## Singly LL
 1. [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=false)
 2. [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=false)
     1. [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=false)
