@@ -44,7 +44,7 @@
 43. [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)
 44. [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/)
 
-
+## Extras
 35. [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
 36. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 37. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
@@ -66,17 +66,9 @@
 49. [Remove Consecutive Characters ](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 50. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 51. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
-52. 
-1.
-2.
-3.
-4.
 
 
-
-
-
-
+## --------
 53. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
 54. [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
 55. [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
