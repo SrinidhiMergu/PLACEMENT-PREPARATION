@@ -25,7 +25,7 @@
 23. [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 24. [Reformat The String](https://leetcode.com/problems/reformat-the-string/)
 25. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
-26. [](https://leetcode.com/problems/most-common-word/)
+26. [Most Common Word](https://leetcode.com/problems/most-common-word/)
 27. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 28. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 29. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
