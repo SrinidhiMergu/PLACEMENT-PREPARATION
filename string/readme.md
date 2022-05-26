@@ -35,7 +35,7 @@
 33. [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 34. [Convert a sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)
 35. [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)
-36. [Count Different Palindromic Subsequences](Count Different Palindromic Subsequences)
+36. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/submissions/)
 37. [Count All Palindromic Subsequence in a given String](https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/)
 38. [Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/submissions/)
 39. [Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)
