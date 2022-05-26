@@ -23,19 +23,6 @@
 10. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
     1. [Implement StrStr in IB](https://www.interviewbit.com/problems/implement-strstr/submissions/)
 
-
-6. [Interleaving String(undone)](https://leetcode.com/problems/interleaving-string/)
-14. [Recursively print all sentences that can be formed from list of word lists](https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/)
-15. [Transform One String to Another using Minimum Number of Given Operation](https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/)
-16. [Function to find Number of customers who could not get a computer](https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/)
-17. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
-19. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
-20. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-21. [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
-    1. [Program to generate all possible valid IP addresses from given string](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/)
-22. [A Program to check if strings are rotations of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
-23. [Count and Say](https://leetcode.com/problems/count-and-say/)
-
 ## Palindrome
 25. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 26. [Minimum characters to be added at front to make string palindrome](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)
@@ -49,12 +36,6 @@
 ## Substrings
 33. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 
-
-35. [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
-36. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
-37. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
-38. [Convert a sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)
-
 ## Subsequence
 39. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 41. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/submissions/)
@@ -64,7 +45,21 @@
 44. [Print all subsequences of a string](https://www.geeksforgeeks.org/print-subsequences-string/)
 
 
-
+35. [Longest Prefix Suffix](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
+36. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
+37. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+38. [Convert a sentence into its equivalent mobile numeric keypad sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)
+6. [Interleaving String(undone)](https://leetcode.com/problems/interleaving-string/)
+14. [Recursively print all sentences that can be formed from list of word lists](https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/)
+15. [Transform One String to Another using Minimum Number of Given Operation](https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/)
+16. [Function to find Number of customers who could not get a computer](https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/)
+17. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+19. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+20. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+21. [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+    1. [Program to generate all possible valid IP addresses from given string](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/)
+22. [A Program to check if strings are rotations of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
+23. [Count and Say](https://leetcode.com/problems/count-and-say/)
 47. [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
     1. [Min Number of Flips ](https://practice.geeksforgeeks.org/problems/min-number-of-flips3210/1)
 48. [Second most repeated string in a sequence](https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1)
@@ -72,7 +67,10 @@
 50. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 51. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 52. 
-
+1.
+2.
+3.
+4.
 
 
 
