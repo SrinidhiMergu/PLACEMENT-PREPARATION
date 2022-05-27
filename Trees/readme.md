@@ -19,7 +19,8 @@
 13. [Zig-Zag Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-level-order-of-tree/submissions/code/1342572462)
 14. [Bottom-Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-bottom-up-level-order-of-tree/submissions/code/1342447069)
 15. [Zig-Zag Bottom Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-bottom-up-level-order-of-tree/submissions/code/1342534702)
-16. [Vertical Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-vertical-order-of-tree/submissions/code/1342574463)
+16. [Vertical Order of Tree](https://leetcode.com/submissions/detail/658458363/)
+    1. []()
 19. [Diagonal Traversal of Binary Tree]()
 20. [Boundary Traversal of binary tree]()
 
