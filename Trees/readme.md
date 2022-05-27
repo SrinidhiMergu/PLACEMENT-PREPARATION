@@ -8,7 +8,7 @@
 18. [Iterative Postorder Traversal using 2 Stack](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/)
     1. [Iterative Postorder Traversal using 1 Stack]()
 5. [$ left view](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/#)
-6. [right view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
+6. [$ right view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
 7. [top view]()
 8. [bottom view]()
 9. [Morris inorder]()
