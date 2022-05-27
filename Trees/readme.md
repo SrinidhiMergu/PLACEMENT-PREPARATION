@@ -2,7 +2,7 @@
 ## Traversal Techniques
 1. [post order traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 2. [All DFS traversals](https://www.hackerrank.com/contests/smart-interviews/challenges/si-tree-traversals/submissions/code/1341050501)
-3. [left view]()
+3. [$ left view](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/#)
 4. [right view]()
 5. [top view]()
 6. [bottom view]()
