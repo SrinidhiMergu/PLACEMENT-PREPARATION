@@ -9,7 +9,7 @@
     1. [Iterative Postorder Traversal using 1 Stack]()
 5. [$ left view](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/#)
 6. [$ right view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
-7. [top view]()
+7. [top view](https://www.hackerrank.com/challenges/tree-top-view/submissions/code/272014634)
 8. [bottom view]()
 9. [Morris inorder]()
 10. [Morris preorder]()
@@ -19,9 +19,8 @@
 13. [Zig-Zag Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-level-order-of-tree/submissions/code/1342572462)
 14. [Bottom-Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-bottom-up-level-order-of-tree/submissions/code/1342447069)
 15. [Zig-Zag Bottom Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-bottom-up-level-order-of-tree/submissions/code/1342534702)
-16. [Vertical Order of Tree](https://leetcode.com/submissions/detail/658458363/)
-    1. []()
-19. [Diagonal Traversal of Binary Tree]()
+16. [Vertical Order of Tree](https://leetcode.com/submissions/detail/708423472/)
+19. [Diagonal Traversal of Binary Tree](https://www.interviewbit.com/problems/diagonal-traversal/submissions/)
 20. [Boundary Traversal of binary tree]()
 
 ## check if 
