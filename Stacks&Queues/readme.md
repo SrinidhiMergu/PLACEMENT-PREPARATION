@@ -13,7 +13,6 @@
     1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
     2. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
     3. [Expression contains redundant bracket or not](https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/)
-    4. []()
 13. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 14. [sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
 15. [Design a stack with operations on middle element](https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)
@@ -37,6 +36,10 @@
 28. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 29. [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)
 30. [Stack Permutations (Check if an array is stack permutation of other)](https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/)
+31. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+32. [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+33. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
+34. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=1&category[]=Stack&category[]=Queue&curated[]=1&sortBy=submissions#)
 
 
 ## Queues
@@ -45,9 +48,31 @@
 2. [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true)
 2. [Implement Queue Using Array](https://bit.ly/3KbIjIW)
     1. [gfg](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
-3. 
-4. 
-5. 
-6. 
-7. [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true)
-8. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem?isFullScreen=true)
+3. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+4. [Queue Reversal ](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
+5. [Reverse First K elements of Queue ](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)
+6. [Interleave the first half of the queue with second half](https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/)
+7. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+8. [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)
+9. [First negative integer in every window of size k ](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
+10. [Check if all levels of two trees are anagrams or not](https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/)
+11. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+12. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+13. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+14. [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true)
+15. [LRU Cache ](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+16. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem?isFullScreen=true)
+17. [Circular tour ](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+18. [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1)
+19. [Maximum of all subarrays of size k ](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1/?page=1&category[]=Stack&category[]=Queue&curated[]=1&sortBy=submissions)
+20. [Next Smaller Element (also in IB)](https://www.geeksforgeeks.org/next-smaller-element/)
+21. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+22. [How to efficiently implement k Queues in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)
+23. [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
+    1. [leetcode](https://leetcode.com/problems/design-circular-queue/)
+24. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)
+25. [Sum of minimum and maximum elements of all subarrays of size k.](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)
+26. [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1)
+
+
+## InterviewBit Problems
