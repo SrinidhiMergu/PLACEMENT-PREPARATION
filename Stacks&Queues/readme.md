@@ -30,7 +30,7 @@
 22. [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 23. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 24. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
-25. [Maximum Rectangular Area in a Histogram](Largest Rectangle in Histogram)
+25. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 26. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 27. [Simplify Path](https://leetcode.com/problems/simplify-path/)
 28. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
