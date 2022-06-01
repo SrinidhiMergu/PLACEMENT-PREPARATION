@@ -24,7 +24,6 @@
 16. [Delete given node in a Linked List : O(1) approach](https://leetcode.com/problems/delete-node-in-a-linked-list/)
     1. [Delete a Node in HR](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem?isFullScreen=false)
     2. [Delete middle of LL](https://leetcode.com/submissions/detail/705248380/)
-    3. [Delete the whole LL(undone)]()
 17. [Find intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/)
     1. [Find Merge Point of Two Lists in HR](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/submissions/code/269321332)
 17. [Palindrome Linked List using stack approach](https://leetcode.com/problems/palindrome-linked-list/submissions/)
@@ -50,22 +49,22 @@
 31. [Reverse Nodes in k-Group(undone)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 32. [Reorder List(undone)](https://leetcode.com/problems/reorder-list/)
 33. [Move last element to front of a given Linked List(undone)](https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/)
-34. [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
-35. [Given a linked list of 0s, 1s and 2s, sort it.](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
-36. [Merge K sorted linked lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-37. [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1)
-38. [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
-39. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
-40. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+34. //undone
+35. [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
+36. [Given a linked list of 0s, 1s and 2s, sort it.](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+37. [Merge K sorted linked lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+38. [Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1)
+39. [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
+40. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+41. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 
-## Circular LL
+## Circular LL(undone)
 36. [Check If Circular Linked List](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
 37. [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1)
 38. [Deletion from a Circular Linked List](https://www.geeksforgeeks.org/deletion-circular-linked-list/)
 39. 
 
-
-## Doubly LL
+## Doubly LL(undone)
 40. [Find pairs with given sum in doubly linked list](https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/)
 41. [Count triplets in a sorted doubly linked list whose sum is equal to a given value x](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/)
 42. [Sort a k sorted doubly linked list](https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/)
