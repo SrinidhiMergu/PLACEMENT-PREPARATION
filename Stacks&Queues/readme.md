@@ -1,5 +1,5 @@
 ## Stacks
-1. [Implement Stack using Array](https://bit.ly/3KbHhN4)
+1. [Implement Stack using Array](https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_3210209?topList=striver-sde-sheet-problems&leftPanelTab=1)
 3. [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
 4. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 5. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
