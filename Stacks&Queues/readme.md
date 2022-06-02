@@ -46,7 +46,7 @@
     1. [O(1) amortized method]()
 2. [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true)
 3. [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
-4. [Implement Queue Using Array](https://rb.gy/29gjxu)
+4. [$ Implement Queue Using Array](https://rb.gy/29gjxu)
     1. [gfg](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
 5. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 6. [Queue Reversal ](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
