@@ -1,7 +1,8 @@
 ## Stacks
 1. [$ Implement Stack using Array](https://rb.gy/zavazw)
 3. [$ Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1#)
-4. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+4. [$ Implement Stack using Queues using 2 queues](https://leetcode.com/submissions/detail/713177170/)
+    1. [Implement Stack using Queues using 1 queue](https://leetcode.com/submissions/detail/713182022/)
 5. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 7. [Waiter](https://www.hackerrank.com/challenges/waiter/problem?isFullScreen=true)
 8. [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem?isFullScreen=true)
