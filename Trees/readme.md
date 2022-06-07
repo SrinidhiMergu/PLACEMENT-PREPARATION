@@ -53,6 +53,8 @@
 18. [Serialize and Deserialize BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ## Find 
+1. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/)
+2. [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 19. [Find Min distance between two given nodes of a Binary Tree]() 
 20. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 21. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
