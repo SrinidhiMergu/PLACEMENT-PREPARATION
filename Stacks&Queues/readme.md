@@ -44,7 +44,6 @@
 33. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 34. [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 35. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
-36. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=1&category[]=Stack&category[]=Queue&curated[]=1&sortBy=submissions#)
 40. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 41. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 42. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
