@@ -58,6 +58,7 @@
 39. [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 40. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 41. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+42. [Next Greater Node In Linked List(undone)](https://leetcode.com/problems/next-greater-node-in-linked-list/)
 
 ## Circular LL(undone)
 36. [Check If Circular Linked List](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
