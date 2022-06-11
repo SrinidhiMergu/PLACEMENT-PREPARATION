@@ -16,6 +16,7 @@
 11. [Mirror of tree]()
 12. [level order of tree using marker approach](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree/submissions/code/1340384574)
     1. [using queue size approach](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+    2. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=1&category[]=Stack&category[]=Queue&curated[]=1&sortBy=submissions#)
 13. [Zig-Zag Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-level-order-of-tree/submissions/code/1342572462)
 14. [Bottom-Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-bottom-up-level-order-of-tree/submissions/code/1342447069)
 15. [Zig-Zag Bottom Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-bottom-up-level-order-of-tree/submissions/code/1342534702)
@@ -36,6 +37,7 @@
 43. [Same Tree](https://leetcode.com/problems/same-tree/)
 44. [checkk if Duplicate subtree in Binary Tree]()
 45. [check for children sum property]()
+46. [Invert Tree]()
 
 ## Binary Tree properties
 16. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
