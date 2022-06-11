@@ -1,7 +1,5 @@
 ### Binary Trees
 ## Traversal Techniques
-1. [post order traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-2. [Preorder Inorder Postorder Traversals in One Traversal]()
 3. [All DFS traversals in recursive approach](https://www.hackerrank.com/contests/smart-interviews/challenges/si-tree-traversals/submissions/code/1341050501)
 16. [Iterative Preorder Traversal in Binary Tree](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
 17. [iterative Inorder Traversal in Binary Tree](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
@@ -9,20 +7,23 @@
     1. [Iterative Postorder Traversal using 1 Stack]()
 5. [$ left view](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/#)
 6. [$ right view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
-7. [top view](https://www.hackerrank.com/challenges/tree-top-view/submissions/code/272014634)
-8. [bottom view]()
+7. [$ top view](https://www.hackerrank.com/challenges/tree-top-view/submissions/code/272014634)
+8. [$ bottom view](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/#)
 9. [Morris inorder]()
 10. [Morris preorder]()
 11. [Mirror of tree]()
 12. [level order of tree using marker approach](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree/submissions/code/1340384574)
     1. [using queue size approach](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-    2. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=1&category[]=Stack&category[]=Queue&curated[]=1&sortBy=submissions#)
-13. [Zig-Zag Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-level-order-of-tree/submissions/code/1342572462)
-14. [Bottom-Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-bottom-up-level-order-of-tree/submissions/code/1342447069)
-15. [Zig-Zag Bottom Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-bottom-up-level-order-of-tree/submissions/code/1342534702)
+    2. [$ Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#)
+    3. [Zig-Zag Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-level-order-of-tree/submissions/code/1342572462)
+    3. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+    4. [Bottom-Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-bottom-up-level-order-of-tree/submissions/code/1342447069)
+    1. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+    1. [Zig-Zag Bottom Up Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-zig-zag-bottom-up-level-order-of-tree/submissions/code/1342534702)
 16. [Vertical Order of Tree](https://leetcode.com/submissions/detail/708423472/)
 19. [Diagonal Traversal of Binary Tree](https://www.interviewbit.com/problems/diagonal-traversal/submissions/)
 20. [Boundary Traversal of binary tree]()
+21. [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
 
 ## check if 
 1. [Is Full Binary Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-full-binary-tree/submissions/code/1342379581)
@@ -35,9 +36,11 @@
 20. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 21. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 43. [Same Tree](https://leetcode.com/problems/same-tree/)
-44. [checkk if Duplicate subtree in Binary Tree]()
+44. [check if Duplicate subtree in Binary Tree]()
 45. [check for children sum property]()
-46. [Invert Tree]()
+    1. [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
+47. [Invert Tree]()
+48. 
 
 ## Binary Tree properties
 16. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
@@ -52,7 +55,6 @@
 15. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 16. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 41. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-18. [Serialize and Deserialize BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ## Find 
 1. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/)
@@ -63,19 +65,14 @@
 21. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
 22. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 23. [path sum](https://leetcode.com/problems/path-sum/)
-24. [find Duplicate Subtrees]()
-25. [Sum of nodes on the longest path from root to leaf node]()
-26. [Minimum swap required to convert binary tree to binary search tree]()
-
-## Convert
-1. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-3. [Flatten BST to sorted list ]()
-4. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-## check if
-1. [Check is a BT is BST or not]()
-2. [validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+24. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+25. [find Duplicate Subtrees]()
+26. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+27. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+28. [Sum of nodes on the longest path from root to leaf node]()
+29. [Minimum swap required to convert binary tree to binary search tree]()
+30. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+31. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 
 ## Binary Search Tree
 25. [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
@@ -89,13 +86,16 @@
 ## Construct
 17. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
+## check if
+1. [Check is a BT is BST or not]()
+2. [validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+
 ## Find
 1. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 34. [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
 35. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 36. [Largest BST in BT](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 37. [Find the inorder predecessor/successor of a given Key in BST.](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)
-38. 
 39. [Min and Max Value in BST]()
 40. [Find a pair with a given sum in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 41. [Merge Two Balanced Binary Search Trees]()
@@ -105,3 +105,8 @@
 
 ## Misc
 1. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+1. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+3. [Flatten BST to sorted list ]()
+4. [Construct BST from given keys](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+5. [Serialize and Deserialize BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
