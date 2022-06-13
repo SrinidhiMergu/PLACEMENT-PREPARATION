@@ -67,9 +67,8 @@
 50. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 51. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
-
 ## --------
-53. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
+1. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
 54. [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
 55. [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
 56. [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)
@@ -84,27 +83,14 @@
 65. [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
 66. [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)
 67. [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
-68. 
 69. [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 70. [Reformat The String](https://leetcode.com/problems/reformat-the-string/)
-71. []()
 72. [Most Common Word](https://leetcode.com/problems/most-common-word/)
-73. 
 74. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 75. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 76. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
-77. 
-78. 
-79. 
 80. [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-81. 
-82. 
 83. [Most Common Word](https://leetcode.com/problems/most-common-word/)
-84. 
-85. 
-86. 
-87. 
-88. 
 89. [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 90. 
 91. 
