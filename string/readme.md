@@ -37,7 +37,7 @@
 33. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 
 ## Subsequence
-39. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+39. [Is Subsequence](https://leetcode.com/submissions/detail/720972266/)
 41. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/submissions/)
     1. [Count Palindromic Subsequences in GFG](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)
 42. [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
