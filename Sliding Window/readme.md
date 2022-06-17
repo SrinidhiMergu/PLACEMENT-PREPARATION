@@ -1,7 +1,7 @@
 1. [minimum window substring](https://leetcode.com/problems/minimum-window-substring/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [$ Number of Substrings Containing All Three Characters](https://leetcode.com/submissions/detail/722490225/)
-5. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+5. [$ Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/submissions/detail/724115538/)
 6. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
 7. [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
 9. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
