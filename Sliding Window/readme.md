@@ -1,5 +1,5 @@
-1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-2. [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+1. [$ Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/726091925/)
+2. [$ Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1/#)
 3. [$ Number of Substrings Containing All Three Characters](https://leetcode.com/submissions/detail/722490225/)
 5. [$ Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/submissions/detail/724115538/)
 6. [$ Get Equal Substrings Within Budget](https://leetcode.com/submissions/detail/724494463/)
@@ -27,3 +27,7 @@
 32. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 33. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 34. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+
+## Resources
+1. [a 10-line template that can solve most 'substring' problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems)
