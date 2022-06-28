@@ -12,6 +12,7 @@
 
 ## Resources
 1. [why BFS/DFS can't be used directly for finding shortest paths in a weighted graph](https://stackoverflow.com/questions/30409493/using-bfs-for-weighted-graphs)
+2. [Longest path in a tree](https://www.spoj.com/problems/PT07Z/)
 
 
 
