@@ -40,7 +40,7 @@
 36. [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 37. [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 38. [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
-39. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+39. [Rotting Oranges](https://leetcode.com/submissions/detail/734309009/)
 
 
 
