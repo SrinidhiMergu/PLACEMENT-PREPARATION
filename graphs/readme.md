@@ -1,12 +1,11 @@
-## Problems
-1. [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
-18. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+## BFS
+1. [Find if Path Exists in Graph](https://leetcode.com/submissions/detail/735464505/)
 2. [ Flood Fill](https://leetcode.com/problems/flood-fill/)
 2. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 3. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 3. [snake and ladder](https://leetcode.com/problems/snakes-and-ladders/)
 4. knight tour
-6. [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
+    //6. [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
 7. [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 8. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 9. [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
@@ -42,8 +41,11 @@
 38. [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 39. [Rotting Oranges](https://leetcode.com/submissions/detail/734309009/)
 
+## DFS
 
 
+## MST
+1. [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ## Resources
 1. [why BFS/DFS can't be used directly for finding shortest paths in a weighted graph](https://stackoverflow.com/questions/30409493/using-bfs-for-weighted-graphs)
