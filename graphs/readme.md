@@ -5,9 +5,8 @@
 3. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 3. [snake and ladder](https://leetcode.com/problems/snakes-and-ladders/)
 4. knight tour
-    //6. [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
-7. [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
-8. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+6. [% Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
+7. [Time Needed to Inform All Employees](https://leetcode.com/submissions/detail/736238882/)
 9. [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
 10. [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 11. [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)
@@ -42,7 +41,7 @@
 39. [Rotting Oranges](https://leetcode.com/submissions/detail/734309009/)
 
 ## DFS
-
+8. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 
 ## MST
 1. [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
